@@ -1,6 +1,6 @@
 # Shell Scripts
 
-<p>A compilation of some shell scripts that I made.</p>
+<p>A compilation of some shell scripts that I've made.</p>
 
 ## arch-install.sh
 
